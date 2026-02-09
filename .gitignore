@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+.eggs/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+.env/
+outputs/
+# Jupyter
+.ipynb_checkpoints/
+
+# Build artifacts
+build/
+dist/
+
+# Data (raw HomeBank CSVs)
+data/raw/
+data/processed/
