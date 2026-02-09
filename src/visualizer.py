@@ -33,7 +33,7 @@ def plot_audit_results(df: pd.DataFrame, output_dir: str = "outputs") -> str:
     )
 
     plt.axhline(0, color="#444444", linewidth=1.2, alpha=0.7)
-    plt.title("Auditoría Inteligente - Pizzería Sabor Llanero")
+    plt.title("Auditoría Financiera - Análisis de Anomalías")
     plt.xlabel("Fecha")
     plt.ylabel("Importe")
 

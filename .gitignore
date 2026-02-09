@@ -23,4 +23,4 @@ dist/
 
 # Data (raw HomeBank CSVs)
 data/raw/*.csv
-data/processed/
+

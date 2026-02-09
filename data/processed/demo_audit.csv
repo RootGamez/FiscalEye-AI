@@ -1,0 +1,556 @@
+Fecha,Pago,Número,Beneficiario,Memo,Importe,Categoría,Etiquetas,Tipo,Monto_Abs
+2026-02-06,0,,Proveedor_Suministros,,-125.25820392691386,Compras,,Egreso,125.25820392691386
+2026-02-10,0,,Venta_Publico,,886.632783069501,Ingresos / Interés,,Ingreso,886.632783069501
+2026-02-09,0,,Proveedor_Suministros,,-831.4798429799714,Compras,,Egreso,831.4798429799714
+2026-02-09,0,,Venta_Publico,,1221.4138725071614,Ingresos / Interés,,Ingreso,1221.4138725071614
+2026-02-09,0,,Proveedor_Suministros,,-773.2657005721123,Compras,,Egreso,773.2657005721123
+2026-02-04,0,,Venta_Publico,,593.5492150478982,Ingresos / Interés,,Ingreso,593.5492150478982
+2026-02-08,0,,Proveedor_Suministros,,-605.3861791807144,Compras,,Egreso,605.3861791807144
+2026-02-04,0,,Venta_Publico,,908.1128305403282,Ingresos / Interés,,Ingreso,908.1128305403282
+2026-02-05,0,,Proveedor_Suministros,,-248.1881414455571,Compras,,Egreso,248.1881414455571
+2026-02-06,0,,Venta_Publico,,402.49182658882967,Ingresos / Interés,,Ingreso,402.49182658882967
+2026-02-02,0,,Proveedor_Suministros,,-236.22780716705324,Compras,,Egreso,236.22780716705324
+2026-02-03,0,,Venta_Publico,,656.3439064654972,Ingresos / Interés,,Ingreso,656.3439064654972
+2026-01-30,0,,Proveedor_Suministros,,-1042.2835705559396,Compras,,Egreso,1042.2835705559396
+2026-02-02,0,,Venta_Publico,,1123.7808253530943,Ingresos / Interés,,Ingreso,1123.7808253530943
+2026-01-30,0,,Proveedor_Suministros,,-1417.990703866025,Compras,,Egreso,1417.990703866025
+2026-02-03,0,,Venta_Publico,,1242.553885724158,Ingresos / Interés,,Ingreso,1242.553885724158
+2026-01-30,0,,Proveedor_Suministros,,-224.11608057119113,Compras,,Egreso,224.11608057119113
+2026-01-28,0,,Venta_Publico,,712.3857919788167,Ingresos / Interés,,Ingreso,712.3857919788167
+2026-02-02,0,,Proveedor_Suministros,,-866.3244848081913,Compras,,Egreso,866.3244848081913
+2026-01-30,0,,venta,,913.0958754301613,Ventas,,Ingreso,913.0958754301613
+2026-02-01,0,,Proveedor_Suministros,,-584.7283795477024,Compras,,Egreso,584.7283795477024
+2026-01-26,0,,Proveedor_Suministros,,-904.9162020001248,Compras,,Egreso,904.9162020001248
+2026-01-25,0,,venta,,799.4689631235267,Ventas,,Ingreso,799.4689631235267
+2026-01-24,0,,Proveedor_Suministros,,-328.5839355761171,Compras,,Egreso,328.5839355761171
+2026-01-24,0,,venta,,616.0230658158686,Ventas,,Ingreso,616.0230658158686
+2026-01-29,0,,senati,,-1256.5796679465916,Compras,,Egreso,1256.5796679465916
+2026-01-27,0,,Proveedor_Suministros,,-304.96651715306405,Compras,,Egreso,304.96651715306405
+2026-01-24,0,,venta,,1181.9807906660203,Ventas,,Ingreso,1181.9807906660203
+2026-01-28,0,,Proveedor_Suministros,,-449.9298522471846,Compras,,Egreso,449.9298522471846
+2026-01-25,0,,venta,,1135.597009871274,Ventas,,Ingreso,1135.597009871274
+2026-01-22,0,,Proveedor_Suministros,,-1020.7805548745779,Compras,,Egreso,1020.7805548745779
+2026-01-21,0,,venta,,696.093016784247,Ventas,,Ingreso,696.093016784247
+2026-01-24,0,,Proveedor_Suministros,,-176.30397572459003,Compras,,Egreso,176.30397572459003
+2026-01-19,0,,venta,,522.7199444083715,Ventas,,Ingreso,522.7199444083715
+2026-01-22,0,,Proveedor_Suministros,,-166.63070465732042,Compras,,Egreso,166.63070465732042
+2026-01-18,0,,venta,,469.2512536984638,Ventas,,Ingreso,469.2512536984638
+2026-01-18,0,,Proveedor_Suministros,,-81.26623563698519,Compras,,Egreso,81.26623563698519
+2026-01-18,0,,venta,,286.35255954848355,Ingresos / Interés,,Ingreso,286.35255954848355
+2026-01-22,0,,Proveedor_Suministros,,-242.89042344704612,Compras,,Egreso,242.89042344704612
+2026-01-20,0,,venta,,954.5380100226035,Ingresos / Interés,,Ingreso,954.5380100226035
+2026-01-15,0,,Proveedor_Suministros,,-459.9944120833446,Compras,,Egreso,459.9944120833446
+2026-01-14,0,,venta,,1229.783712688712,Ingresos / Interés,,Ingreso,1229.783712688712
+2026-01-15,0,,Proveedor_Suministros,,-58.30860917903147,Compras,,Egreso,58.30860917903147
+2026-01-18,0,,venta,,563.09157676489,Ingresos / Interés,,Ingreso,563.09157676489
+2026-01-15,0,,Proveedor_Suministros,,-277.9343486422862,Compras,,Egreso,277.9343486422862
+2026-01-14,0,,Proveedor_Suministros,,-169.95683970278748,Compras,,Egreso,169.95683970278748
+2026-01-12,0,,venta,,503.19178683189404,Ingresos / Interés,,Ingreso,503.19178683189404
+2026-01-12,0,,venta,,648.634344241385,Ingresos / Interés,,Ingreso,648.634344241385
+2026-01-11,0,,Proveedor_Suministros,,-69.30153087902775,Compras,,Egreso,69.30153087902775
+2026-01-09,0,,venta,,346.86654105922196,Ingresos / Interés,,Ingreso,346.86654105922196
+2026-01-15,0,,Proveedor_Suministros,,-162.63400812285585,Compras,,Egreso,162.63400812285585
+2026-01-08,0,,venta,,791.8177674137347,Ingresos / Interés,,Ingreso,791.8177674137347
+2026-01-08,0,,Proveedor_Suministros,,-254.7036437746552,Compras,,Egreso,254.7036437746552
+2026-01-13,0,,venta,,1014.4922325244164,Ingresos / Interés,,Ingreso,1014.4922325244164
+2026-01-13,0,,Proveedor_Suministros,,-1372.5386301115361,Compras,,Egreso,1372.5386301115361
+2026-01-10,0,,venta,,855.6412225085968,Ingresos / Interés,,Ingreso,855.6412225085968
+2026-01-08,0,,Proveedor_Suministros,,-228.3958422310107,Compras,,Egreso,228.3958422310107
+2026-01-07,0,,venta,,798.5954605467587,Ingresos / Interés,,Ingreso,798.5954605467587
+2026-01-07,0,,Proveedor_Suministros,,-162.28645544894894,Compras,,Egreso,162.28645544894894
+2026-01-06,0,,Proveedor_Suministros,,-406.51835034081085,Compras,,Egreso,406.51835034081085
+2026-01-03,0,,venta,,910.0573133331387,Ingresos / Interés,,Ingreso,910.0573133331387
+2026-01-04,0,,Proveedor_Suministros,,-39.045459202652395,Compras,,Egreso,39.045459202652395
+2026-01-06,0,,venta,,684.1758825526299,Ingresos / Interés,,Ingreso,684.1758825526299
+2026-01-02,0,,Proveedor_Suministros,,-133.40890931046,Compras,,Egreso,133.40890931046
+2026-01-03,0,,venta,,1129.9695837655427,Ingresos / Interés,,Ingreso,1129.9695837655427
+2026-01-01,0,,Proveedor_Suministros,,-169.9841611327567,Compras,,Egreso,169.9841611327567
+2026-01-04,0,,venta,,1164.6756015898254,Ingresos / Interés,,Ingreso,1164.6756015898254
+2026-01-02,0,,Proveedor_Suministros,,-1554.1467457842157,Compras,,Egreso,1554.1467457842157
+2025-12-30,0,,venta,,1183.0518167809655,Ingresos / Interés,,Ingreso,1183.0518167809655
+2026-01-03,0,,Proveedor_Suministros,,-168.87538871188212,Compras,,Egreso,168.87538871188212
+2026-01-04,0,,venta,,1563.6238286057524,Ingresos / Interés,,Ingreso,1563.6238286057524
+2026-01-03,0,,Proveedor_Suministros,,-1562.6588421306312,Compras,,Egreso,1562.6588421306312
+2025-12-28,0,,Proveedor_Suministros,,-177.66590459871364,Compras,,Egreso,177.66590459871364
+2025-12-27,0,,venta,,795.2189883887394,Ingresos / Interés,,Ingreso,795.2189883887394
+2025-12-30,0,,venta,,677.954311880166,Ingresos / Interés,,Ingreso,677.954311880166
+2025-12-27,0,,Proveedor_Suministros,,-457.7454575764563,Compras,,Egreso,457.7454575764563
+2025-12-31,0,,Proveedor_Suministros,,-283.39090304171566,Compras,,Egreso,283.39090304171566
+2025-12-29,0,,venta,,755.3540706300075,Ingresos / Interés,,Ingreso,755.3540706300075
+2025-12-27,0,,Proveedor_Suministros,,-469.02109238121557,Compras,,Egreso,469.02109238121557
+2025-12-29,0,,venta,,743.7267956815424,Ingresos / Interés,,Ingreso,743.7267956815424
+2025-12-26,0,,Proveedor_Suministros,,-840.1796197294412,Compras,,Egreso,840.1796197294412
+2025-12-29,0,,venta,,961.729796435715,Ingresos / Interés,,Ingreso,961.729796435715
+2025-12-27,0,,Proveedor_Suministros,,-0.9636831479381294,Compras,,Egreso,0.9636831479381294
+2025-12-23,0,,Proveedor_Suministros,,-709.8913866596785,Compras,,Egreso,709.8913866596785
+2025-12-27,0,,venta,,1251.0246098276623,Otros Ingresos,,Ingreso,1251.0246098276623
+2025-12-23,0,,Proveedor_Suministros,,-71.96490128805911,Compras,,Egreso,71.96490128805911
+2025-12-23,0,,Proveedor_Suministros,,-151.64201665405363,Compras,,Egreso,151.64201665405363
+2025-12-24,0,,venta,,758.5073764046153,Ingresos / Interés,,Ingreso,758.5073764046153
+2025-12-21,0,,Proveedor_Suministros,,-258.651094922697,Compras,,Egreso,258.651094922697
+2025-12-19,0,,venta,,507.3160305427401,Ventas,,Ingreso,507.3160305427401
+2025-12-21,0,,Proveedor_Suministros,,-368.59368950328724,Compras,,Egreso,368.59368950328724
+2025-12-19,0,,venta,,959.4400355552474,Ventas,,Ingreso,959.4400355552474
+2025-12-20,0,,Proveedor_Suministros,,-1161.7766821277357,Compras,,Egreso,1161.7766821277357
+2025-12-22,0,,venta,,1160.0357198182344,Ventas,,Ingreso,1160.0357198182344
+2025-12-17,0,,Proveedor_Suministros,,-387.20777506507204,Compras,,Egreso,387.20777506507204
+2025-12-16,0,,venta,,637.3604296706515,Ventas,,Ingreso,637.3604296706515
+2025-12-16,0,,Proveedor_Suministros,,-235.28261722528373,Compras,,Egreso,235.28261722528373
+2025-12-15,0,,venta,,692.7506315260326,Ventas,,Ingreso,692.7506315260326
+2025-12-17,0,,Proveedor_Suministros,,-130.90962518161692,Compras,,Egreso,130.90962518161692
+2025-12-17,0,,venta,,612.987239637209,Ventas,,Ingreso,612.987239637209
+2025-12-17,0,,Proveedor_Suministros,,-237.81390283577053,Compras,,Egreso,237.81390283577053
+2025-12-18,0,,venta,,510.39525316743226,Ventas,,Ingreso,510.39525316743226
+2025-12-17,0,,Proveedor_Suministros,,-313.4751358817191,Compras,,Egreso,313.4751358817191
+2025-12-16,0,,venta,,903.7064320826108,Ventas,,Ingreso,903.7064320826108
+2025-12-12,0,,Proveedor_Suministros,,-146.4564516117338,Compras,,Egreso,146.4564516117338
+2025-12-14,0,,venta,,883.8624320009086,Ventas,,Ingreso,883.8624320009086
+2025-12-16,0,,Proveedor_Suministros,,-665.7107301547113,Compras,,Egreso,665.7107301547113
+2025-12-10,0,,venta,,686.5090878968113,Ventas,,Ingreso,686.5090878968113
+2025-12-15,0,,Proveedor_Suministros,,-71.69210364011217,Compras,,Egreso,71.69210364011217
+2025-12-13,0,,venta,,507.3840097368043,Ventas,,Ingreso,507.3840097368043
+2025-12-14,0,,Proveedor_Suministros,,-126.09409315642438,Compras,,Egreso,126.09409315642438
+2025-12-07,0,,venta,,612.8122384113274,Ventas,,Ingreso,612.8122384113274
+2025-12-12,0,,Proveedor_Suministros,,-334.02307479014127,Compras,,Egreso,334.02307479014127
+2025-12-11,0,,venta,,807.7381849686126,Ventas,,Ingreso,807.7381849686126
+2025-12-06,0,,Proveedor_Suministros,,-274.17683406294015,Compras,,Egreso,274.17683406294015
+2025-12-11,0,,venta,,999.121877694732,Ventas,,Ingreso,999.121877694732
+2025-12-11,0,,Proveedor_Suministros,,-469.192732495524,Compras,,Egreso,469.192732495524
+2025-12-10,0,,venta,,577.1020478847287,Ventas,,Ingreso,577.1020478847287
+2025-12-09,0,,Proveedor_Suministros,,-86.46521726493447,Compras,,Egreso,86.46521726493447
+2025-12-03,0,,venta,,1050.7153485713886,Ventas,,Ingreso,1050.7153485713886
+2025-12-08,0,,Proveedor_Suministros,,-872.5225344955568,Compras,,Egreso,872.5225344955568
+2025-12-08,0,,venta,,1381.186213934974,Ventas,,Ingreso,1381.186213934974
+2025-12-03,0,,Proveedor_Suministros,,-639.4622844202944,Compras,,Egreso,639.4622844202944
+2025-12-06,0,,venta,,840.8008046344578,Ventas,,Ingreso,840.8008046344578
+2025-12-06,0,,Proveedor_Suministros,,-123.47831813679191,Compras,,Egreso,123.47831813679191
+2025-12-05,0,,venta,,697.9386063842253,Ventas,,Ingreso,697.9386063842253
+2025-12-04,0,,Proveedor_Suministros,,-381.33951584863945,Compras,,Egreso,381.33951584863945
+2025-12-03,0,,venta,,651.8699393098709,Ventas,,Ingreso,651.8699393098709
+2025-12-05,0,,Proveedor_Suministros,,-230.0014228927838,Compras,,Egreso,230.0014228927838
+2025-11-30,0,,venta,,142.30418270550152,Ventas,,Ingreso,142.30418270550152
+2025-11-29,0,,Proveedor_Suministros,,-518.4417309033742,Compras,,Egreso,518.4417309033742
+2025-11-28,0,,venta,,1078.5121011257008,Ventas,,Ingreso,1078.5121011257008
+2025-11-29,0,,Proveedor_Suministros,,-1152.628542808493,Compras,,Egreso,1152.628542808493
+2025-11-26,0,,venta,,527.6154579038142,Ventas,,Ingreso,527.6154579038142
+2025-11-30,0,,Proveedor_Suministros,,-529.5839883846536,Compras,,Egreso,529.5839883846536
+2025-12-01,0,,venta,,757.0680620791502,Ventas,,Ingreso,757.0680620791502
+2025-11-26,0,,Proveedor_Suministros,,-834.9450242822503,Compras,,Egreso,834.9450242822503
+2025-11-29,0,,venta,,898.8215709521894,Ventas,,Ingreso,898.8215709521894
+2025-11-24,0,,Proveedor_Suministros,,-69.67733520242754,Compras,,Egreso,69.67733520242754
+2025-11-29,0,,venta,,580.8429128866164,Ventas,,Ingreso,580.8429128866164
+2025-11-24,0,,Proveedor_Suministros,,-652.7299818129935,Compras,,Egreso,652.7299818129935
+2025-11-24,0,,venta,,775.9985531576447,Ventas,,Ingreso,775.9985531576447
+2025-11-22,0,,Proveedor_Suministros,,-130.56700471116832,Compras,,Egreso,130.56700471116832
+2025-11-21,0,,venta,,1082.6201462431643,Ventas,,Ingreso,1082.6201462431643
+2025-11-21,0,,Proveedor_Suministros,,-289.2192910806725,Compras,,Egreso,289.2192910806725
+2025-11-25,0,,venta,,685.2426337721786,Ventas,,Ingreso,685.2426337721786
+2025-11-25,0,,Proveedor_Suministros,,-156.74300722648925,Compras,,Egreso,156.74300722648925
+2025-11-24,0,,venta,,835.2364335059071,Ventas,,Ingreso,835.2364335059071
+2025-11-19,0,,Proveedor_Suministros,,-503.4030582418509,Compras,,Egreso,503.4030582418509
+2025-11-18,0,,venta,,268.3236482039765,Ventas,,Ingreso,268.3236482039765
+2025-11-22,0,,Proveedor_Suministros,,-530.9740406733616,Compras,,Egreso,530.9740406733616
+2025-11-22,0,,venta,,622.0129699890202,Ventas,,Ingreso,622.0129699890202
+2025-11-22,0,,Proveedor_Suministros,,-181.09026373960097,Compras,,Egreso,181.09026373960097
+2025-11-18,0,,venta,,519.0288500932066,Ventas,,Ingreso,519.0288500932066
+2025-11-18,0,,Proveedor_Suministros,,-263.7264465801393,Compras,,Egreso,263.7264465801393
+2025-11-19,0,,venta,,691.7891171541582,Ventas,,Ingreso,691.7891171541582
+2025-11-15,0,,Proveedor_Suministros,,-247.04997544609233,Compras,,Egreso,247.04997544609233
+2025-11-16,0,,venta,,535.1395081673388,Ventas,,Ingreso,535.1395081673388
+2025-11-18,0,,Proveedor_Suministros,,-1167.2774589841458,Compras,,Egreso,1167.2774589841458
+2025-11-14,0,,venta,,702.7390088598969,Ventas,,Ingreso,702.7390088598969
+2025-11-13,0,,Proveedor_Suministros,,-443.1983032888428,Compras,,Egreso,443.1983032888428
+2025-11-18,0,,venta,,1095.103312222996,Ventas,,Ingreso,1095.103312222996
+2025-11-16,0,,Proveedor_Suministros,,-197.77171619753207,Compras,,Egreso,197.77171619753207
+2025-11-12,0,,venta,,569.6679939457023,Ventas,,Ingreso,569.6679939457023
+2025-11-11,0,,Proveedor_Suministros,,-249.5876225144337,Compras,,Egreso,249.5876225144337
+2025-11-11,0,,venta,,695.0708647003935,Ventas,,Ingreso,695.0708647003935
+2025-11-10,0,,Proveedor_Suministros,,-128.84688729579304,Compras,,Egreso,128.84688729579304
+2025-11-09,0,,venta,,234.05437947273558,Ventas,,Ingreso,234.05437947273558
+2025-11-14,0,,Proveedor_Suministros,,-569.9259499369431,Compras,,Egreso,569.9259499369431
+2025-11-14,0,,venta,,767.2681409138116,Ventas,,Ingreso,767.2681409138116
+2025-11-14,0,,Proveedor_Suministros,,-204.53405085973705,Compras,,Egreso,204.53405085973705
+2025-11-13,0,,venta,,233.47742903716264,Ventas,,Ingreso,233.47742903716264
+2025-11-13,0,,Proveedor_Suministros,,-802.0437040558967,Compras,,Egreso,802.0437040558967
+2025-11-11,0,,venta,,1106.4959419797376,Ventas,,Ingreso,1106.4959419797376
+2025-11-06,0,,Proveedor_Suministros,,-177.12720335123987,Compras,,Egreso,177.12720335123987
+2025-11-11,0,,venta,,1044.8092820522759,Ventas,,Ingreso,1044.8092820522759
+2025-11-05,0,,Proveedor_Suministros,,-882.6078513310088,Compras,,Egreso,882.6078513310088
+2025-11-08,0,,venta,,1047.7441311154907,Ventas,,Ingreso,1047.7441311154907
+2025-11-10,0,,,,-149.55028641281626,Compras,,Egreso,149.55028641281626
+2025-11-09,0,,venta,,347.25427952064325,Ventas,,Ingreso,347.25427952064325
+2025-11-08,0,,,,-126.13189690139693,Compras,,Egreso,126.13189690139693
+2025-11-03,0,,venta,,588.4269466929629,Ventas,,Ingreso,588.4269466929629
+2025-11-04,0,,Proveedor_Suministros,,-197.9586791334267,Compras,,Egreso,197.9586791334267
+2025-11-02,0,,venta,,301.5766002680326,Ventas,,Ingreso,301.5766002680326
+2025-11-01,0,,Proveedor_Suministros,Importación automática,-133.172145978146,Compras,,Egreso,133.172145978146
+2025-11-06,0,,venta,,679.4538647723718,Ventas,,Ingreso,679.4538647723718
+2025-11-01,0,,Proveedor_Suministros,Importación automática,-394.37010247783684,Compras,,Egreso,394.37010247783684
+2025-11-01,0,,venta,,1140.6770171253584,Ventas,,Ingreso,1140.6770171253584
+2025-10-31,0,,Proveedor_Suministros,Importación automática,-216.203428961783,Compras,,Egreso,216.203428961783
+2025-10-29,0,,venta,,1020.1770472167358,Ventas,,Ingreso,1020.1770472167358
+2025-11-03,0,,Proveedor_Suministros,Importación automática,-220.30072320662126,Compras,,Egreso,220.30072320662126
+2025-10-29,0,,Proveedor_Suministros,Importación automática,-1779.2673887070735,Compras,,Egreso,1779.2673887070735
+2025-10-30,0,,venta,,897.8297411704535,Ventas,,Ingreso,897.8297411704535
+2025-10-29,0,,Proveedor_Suministros,Importación automática,-283.56111150746773,Compras,,Egreso,283.56111150746773
+2025-10-31,0,,venta,,341.1884857915982,Ventas,,Ingreso,341.1884857915982
+2025-10-29,0,,Proveedor_Suministros,Importación automática,-118.66980658409463,Compras,,Egreso,118.66980658409463
+2025-11-01,0,,venta,,81.70751680562093,Ventas,,Ingreso,81.70751680562093
+2025-10-26,0,,Proveedor_Suministros,Importación automática,-197.64952591298626,Compras,,Egreso,197.64952591298626
+2025-10-25,0,,venta,,369.0427163413337,Ventas,,Ingreso,369.0427163413337
+2025-10-31,0,,Proveedor_Suministros,Importación automática,-156.70766505517378,Compras,,Egreso,156.70766505517378
+2025-10-24,0,,Proveedor_Suministros,Importación automática,-401.80245744965384,Compras,,Egreso,401.80245744965384
+2025-10-24,0,,venta,Importación automática,311.5633691304271,Ventas,,Ingreso,311.5633691304271
+2025-10-24,0,,Proveedor_Suministros,Importación automática,-482.7963311461181,Compras,,Egreso,482.7963311461181
+2025-10-25,0,,Proveedor_Suministros,Importación automática,-49.22515128037804,Compras,,Egreso,49.22515128037804
+2025-10-28,0,,Proveedor_Suministros,Importación automática,-202.7439388569526,Compras,,Egreso,202.7439388569526
+2025-10-22,0,,Proveedor_Suministros,Importación automática,-603.0997282372676,Compras,,Egreso,603.0997282372676
+2025-10-22,0,,venta,Importación automática,521.0394707341098,Ventas,,Ingreso,521.0394707341098
+2025-10-25,0,,Proveedor_Suministros,Importación automática,-141.65363976773682,Compras,,Egreso,141.65363976773682
+2025-10-25,0,,venta,Importación automática,993.0771228038501,Ventas,,Ingreso,993.0771228038501
+2025-10-25,0,,Proveedor_Suministros,Importación automática,-108.98734548628045,Compras,,Egreso,108.98734548628045
+2025-10-22,0,,venta,Importación automática,467.9176986824904,Ventas,,Ingreso,467.9176986824904
+2025-10-21,0,,Proveedor_Suministros,Importación automática,-220.36359367459474,Compras,,Egreso,220.36359367459474
+2025-10-24,0,,venta,Importación automática,553.5066251411722,Ventas,,Ingreso,553.5066251411722
+2025-10-22,0,,Proveedor_Suministros,Importación automática,-104.66668790860116,Compras,,Egreso,104.66668790860116
+2025-10-18,0,,venta,Importación automática,151.87954212864497,Ventas,,Ingreso,151.87954212864497
+2025-10-17,0,,Proveedor_Suministros,Importación automática,-102.76692752437702,Compras,,Egreso,102.76692752437702
+2025-10-21,0,,venta,Importación automática,492.114357670681,Ventas,,Ingreso,492.114357670681
+2025-10-16,0,,Proveedor_Suministros,Importación automática,-86.0529579742228,Compras,,Egreso,86.0529579742228
+2025-10-18,0,,venta,Importación automática,844.1766407063039,Ventas,,Ingreso,844.1766407063039
+2025-10-20,0,,Proveedor_Suministros,Importación automática,-955.0372929771263,Compras,,Egreso,955.0372929771263
+2025-10-21,0,,venta,Importación automática,586.2318544707892,Ventas,,Ingreso,586.2318544707892
+2025-10-15,0,,Proveedor_Suministros,Importación automática,-45.0657076347114,Compras,,Egreso,45.0657076347114
+2025-10-18,0,,Proveedor_Suministros,Importación automática,-526.4532991239448,Compras,,Egreso,526.4532991239448
+2025-10-15,0,,venta,Importación automática,465.43745819543864,Ventas,,Ingreso,465.43745819543864
+2025-10-15,0,,Proveedor_Suministros,Importación automática,-57.8887575905341,Compras,,Egreso,57.8887575905341
+2025-10-19,0,,venta,Importación automática,325.25135197233647,Ventas,,Ingreso,325.25135197233647
+2025-10-16,0,,Proveedor_Suministros,Importación automática,-226.8599949275449,Compras,,Egreso,226.8599949275449
+2025-10-13,0,,venta,Importación automática,411.6541818906868,Ventas,,Ingreso,411.6541818906868
+2025-10-17,0,,Proveedor_Suministros,Importación automática,-258.34457409189093,Compras,,Egreso,258.34457409189093
+2025-10-15,0,,venta,Importación automática,255.4824425887855,Ventas,,Ingreso,255.4824425887855
+2025-10-14,0,,Proveedor_Suministros,Importación automática,-167.01229535722803,Compras,,Egreso,167.01229535722803
+2025-10-14,0,,venta,Importación automática,381.0192432355272,Ventas,,Ingreso,381.0192432355272
+2025-10-09,0,,Proveedor_Suministros,Importación automática,-696.5395190249823,Compras,,Egreso,696.5395190249823
+2025-10-09,0,,venta,Importación automática,960.704222116352,Ventas,,Ingreso,960.704222116352
+2025-10-08,0,,Proveedor_Suministros,Importación automática,-20.12175471023611,Compras,,Egreso,20.12175471023611
+2025-10-12,0,,Proveedor_Suministros,Importación automática,-1876.224152368252,Compras,,Egreso,1876.224152368252
+2025-10-14,0,,venta,Importación automática,997.05394492316,Ventas,,Ingreso,997.05394492316
+2025-10-07,0,,Proveedor_Suministros,Importación automática,-235.7955611499961,Compras,,Egreso,235.7955611499961
+2025-10-13,0,,Proveedor_Suministros,Importación automática,-234.88714192831284,Compras,,Egreso,234.88714192831284
+2025-10-11,0,,venta,Importación automática,617.2863400846605,Ventas,,Ingreso,617.2863400846605
+2025-10-10,0,,Proveedor_Suministros,Importación automática,-224.2383235459099,Compras,,Egreso,224.2383235459099
+2025-10-10,0,,venta,Importación automática,461.97399064078775,Ventas,,Ingreso,461.97399064078775
+2025-10-09,0,,Proveedor_Suministros,Importación automática,-322.4666591732134,Compras,,Egreso,322.4666591732134
+2025-10-10,0,,venta,Importación automática,648.0075544915042,Ventas,,Ingreso,648.0075544915042
+2025-10-04,0,,Proveedor_Suministros,Importación automática,-165.4462239498823,Compras,,Egreso,165.4462239498823
+2025-10-05,0,,Proveedor_Suministros,Importación automática,-28.133048501459168,Compras,,Egreso,28.133048501459168
+2025-10-09,0,,venta,Importación automática,750.8404833464025,Ventas,,Ingreso,750.8404833464025
+2025-10-07,0,,Proveedor_Suministros,Importación automática,-166.758563759025,Compras,,Egreso,166.758563759025
+2025-10-03,0,,Proveedor_Suministros,Importación automática,-286.1895716162128,Compras,,Egreso,286.1895716162128
+2025-10-03,0,,Proveedor_Suministros,Importación automática,-426.5909986331139,Compras,,Egreso,426.5909986331139
+2025-10-09,0,,venta,Importación automática,695.8864310513756,Ventas,,Ingreso,695.8864310513756
+2025-10-04,0,,Proveedor_Suministros,Importación automática,-192.6995867334818,Compras,,Egreso,192.6995867334818
+2025-10-08,0,,venta,Importación automática,876.7840200565167,Ventas,,Ingreso,876.7840200565167
+2025-10-03,0,,Proveedor_Suministros,Importación automática,-604.8089474859214,Compras,,Egreso,604.8089474859214
+2025-10-06,0,,Proveedor_Suministros,Importación automática,-43.17748020331141,Compras,,Egreso,43.17748020331141
+2025-10-03,0,,venta,Importación automática,627.790444052044,Ventas,,Ingreso,627.790444052044
+2025-10-01,0,,Proveedor_Suministros,Importación automática,-201.96962177694945,Compras,,Egreso,201.96962177694945
+2025-10-04,0,,venta,Importación automática,570.0135195613893,Ventas,,Ingreso,570.0135195613893
+2025-09-29,0,,Proveedor_Suministros,Importación automática,-495.06285697361676,Compras,,Egreso,495.06285697361676
+2025-09-29,0,,venta,Importación automática,504.9156771450216,Ventas,,Ingreso,504.9156771450216
+2025-09-28,0,,Proveedor_Suministros,Importación automática,-1108.7172890878196,Compras,,Egreso,1108.7172890878196
+2025-10-03,0,,Proveedor_Suministros,Importación automática,-259.1400119028648,Compras,,Egreso,259.1400119028648
+2025-10-02,0,,Proveedor_Suministros,Importación automática,-53.3747863916914,Compras,,Egreso,53.3747863916914
+2025-10-04,0,,venta,Importación automática,842.1234963579318,Ventas,,Ingreso,842.1234963579318
+2025-10-03,0,,Proveedor_Suministros,Importación automática,-192.5424111273319,Compras,,Egreso,192.5424111273319
+2025-09-27,0,,venta,Importación automática,638.8727361953205,Ventas,,Ingreso,638.8727361953205
+2025-10-01,0,,Proveedor_Suministros,Importación automática,-20.92285587821766,Compras,,Egreso,20.92285587821766
+2025-09-27,0,,Proveedor_Suministros,Importación automática,-176.13264460333264,Compras,,Egreso,176.13264460333264
+2025-09-26,0,,Proveedor_Suministros,Importación automática,-41.91801269657799,Compras,,Egreso,41.91801269657799
+2025-10-01,0,,venta,Importación automática,747.4184038761075,Ventas,,Ingreso,747.4184038761075
+2025-09-25,0,,Proveedor_Suministros,Importación automática,-356.221667958111,Compras,,Egreso,356.221667958111
+2025-10-01,0,,venta,Importación automática,1084.113206913806,Ventas,,Ingreso,1084.113206913806
+2025-09-25,0,,Proveedor_Suministros,Importación automática,-76.72911805159708,Compras,,Egreso,76.72911805159708
+2025-09-26,0,,Proveedor_Suministros,Importación automática,-322.9062255966359,Compras,,Egreso,322.9062255966359
+2025-09-29,0,,Proveedor_Suministros,Importación automática,-826.8891919054693,Compras,,Egreso,826.8891919054693
+2025-09-29,0,,Proveedor_Suministros,Importación automática,-103.07236810900164,Compras,,Egreso,103.07236810900164
+2025-09-30,0,,venta,Importación automática,651.1468189621963,Ventas,,Ingreso,651.1468189621963
+2025-09-29,0,,Proveedor_Suministros,Importación automática,-373.053275419558,Compras,,Egreso,373.053275419558
+2025-09-29,0,,Proveedor_Suministros,Importación automática,-175.09081202483858,Compras,,Egreso,175.09081202483858
+2025-09-25,0,,venta,Importación automática,626.1165035004947,Ventas,,Ingreso,626.1165035004947
+2025-09-22,0,,venta,Importación automática,678.6582039067696,Ventas,,Ingreso,678.6582039067696
+2025-09-25,0,,venta,Importación automática,309.03644930713256,Ventas,,Ingreso,309.03644930713256
+2025-09-22,0,,venta,Importación automática,639.9900678434577,Ventas,,Ingreso,639.9900678434577
+2025-09-24,0,,Proveedor_Suministros,Importación automática,-385.6178926569708,Compras,,Egreso,385.6178926569708
+2025-09-25,0,,venta,Importación automática,293.8365372679353,Ventas,,Ingreso,293.8365372679353
+2025-09-18,0,,Proveedor_Suministros,Importación automática,-183.71429853262424,Compras,,Egreso,183.71429853262424
+2025-09-24,0,,venta,Importación automática,831.4201668006675,Ventas,,Ingreso,831.4201668006675
+2025-09-21,0,,Proveedor_Suministros,Importación automática,-529.994887275417,Compras,,Egreso,529.994887275417
+2025-09-17,0,,venta,Importación automática,875.2646944913275,Ventas,,Ingreso,875.2646944913275
+2025-09-20,0,,Proveedor_Suministros,Importación automática,-98.71406089331433,Compras,,Egreso,98.71406089331433
+2025-09-17,0,,venta,Importación automática,791.7646061532197,Ventas,,Ingreso,791.7646061532197
+2025-09-19,0,,Proveedor_Suministros,Importación automática,-212.12776925830676,Compras,,Egreso,212.12776925830676
+2025-09-16,0,,venta,Importación automática,446.88435297320956,Ventas,,Ingreso,446.88435297320956
+2025-09-20,0,,Proveedor_Suministros,Importación automática,-46.142919059988834,Compras,,Egreso,46.142919059988834
+2025-09-20,0,,Proveedor_Suministros,Importación automática,-42.640015890602484,Compras,,Egreso,42.640015890602484
+2025-09-15,0,,venta,Importación automática,292.29536682328643,Ventas,,Ingreso,292.29536682328643
+2025-09-17,0,,Proveedor_Suministros,Importación automática,-183.6635083379935,Compras,,Egreso,183.6635083379935
+2025-09-18,0,,venta,Importación automática,599.2969879791676,Ventas,,Ingreso,599.2969879791676
+2025-09-18,0,,Proveedor_Suministros,Importación automática,-1742.9643988494192,Compras,,Egreso,1742.9643988494192
+2025-09-17,0,,Proveedor_Suministros,Importación automática,-74.10889984797993,Compras,,Egreso,74.10889984797993
+2025-09-13,0,,venta,Importación automática,903.9867973062569,Ventas,,Ingreso,903.9867973062569
+2025-09-10,0,,Proveedor_Suministros,Importación automática,-294.1919922415595,Compras,,Egreso,294.1919922415595
+2025-09-15,0,,venta,Importación automática,467.2737320323616,Ventas,,Ingreso,467.2737320323616
+2025-09-10,0,,Proveedor_Suministros,Importación automática,-322.63673046253683,Compras,,Egreso,322.63673046253683
+2025-09-11,0,,venta,Importación automática,627.0790834039599,Ventas,,Ingreso,627.0790834039599
+2025-09-12,0,,Proveedor_Suministros,Importación automática,-167.990891812135,Compras,,Egreso,167.990891812135
+2025-09-14,0,,venta,Importación automática,590.4297322819145,Ventas,,Ingreso,590.4297322819145
+2025-09-11,0,,Proveedor_Suministros,Importación automática,-112.1098087009521,Compras,,Egreso,112.1098087009521
+2025-09-07,0,,Proveedor_Suministros,Importación automática,-529.1629882997108,Compras,,Egreso,529.1629882997108
+2025-09-09,0,,venta,Importación automática,484.8736615940793,Ventas,,Ingreso,484.8736615940793
+2025-09-10,0,,Proveedor_Suministros,Importación automática,-260.3239316382325,Compras,,Egreso,260.3239316382325
+2025-09-10,0,,venta,Importación automática,607.1304869933433,Ventas,,Ingreso,607.1304869933433
+2025-09-10,0,,Proveedor_Suministros,Importación automática,-551.9057996313319,Compras,,Egreso,551.9057996313319
+2025-09-11,0,,venta,Importación automática,442.4975563714978,Ventas,,Ingreso,442.4975563714978
+2025-09-08,0,,Proveedor_Suministros,Importación automática,-51.863112716193484,Compras,,Egreso,51.863112716193484
+2025-09-10,0,,venta,Importación automática,854.5141043303789,Ventas,,Ingreso,854.5141043303789
+2025-09-05,0,,Proveedor_Suministros,Importación automática,-18.03629164102375,Compras,,Egreso,18.03629164102375
+2025-09-04,0,,Proveedor_Suministros,Importación automática,-131.18171091321685,Compras,,Egreso,131.18171091321685
+2025-09-09,0,,venta,Importación automática,673.8032673643276,Ventas,,Ingreso,673.8032673643276
+2025-09-04,0,,Proveedor_Suministros,Importación automática,-496.98117033942555,Compras,,Egreso,496.98117033942555
+2025-09-04,0,,venta,Importación automática,570.1609773788794,Ventas,,Ingreso,570.1609773788794
+2025-09-07,0,,Proveedor_Suministros,Importación automática,-171.72816426109054,Compras,,Egreso,171.72816426109054
+2025-09-02,0,,venta,Importación automática,184.71481530439547,Ventas,,Ingreso,184.71481530439547
+2025-09-06,0,,Proveedor_Suministros,Importación automática,-261.60306555308364,Compras,,Egreso,261.60306555308364
+2025-09-02,0,,venta,Importación automática,417.1455013192737,Ventas,,Ingreso,417.1455013192737
+2025-09-01,0,,Proveedor_Suministros,Importación automática,-3019.7596084567654,Compras,,Egreso,3019.7596084567654
+2025-09-03,0,,venta,Importación automática,671.231743790839,Ventas,,Ingreso,671.231743790839
+2025-08-29,0,,Proveedor_Suministros,Importación automática,-225.50808455649033,Compras,,Egreso,225.50808455649033
+2025-08-31,0,,venta,Importación automática,677.1923178210925,Ventas,,Ingreso,677.1923178210925
+2025-08-30,0,,Proveedor_Suministros,Importación automática,-92.34666731787803,Compras,,Egreso,92.34666731787803
+2025-09-01,0,,Proveedor_Suministros,Importación automática,-642.2301228151756,Compras,,Egreso,642.2301228151756
+2025-08-30,0,,venta,Importación automática,1366.1992244834667,Ventas,,Ingreso,1366.1992244834667
+2025-09-02,0,,Proveedor_Suministros,Importación automática,-108.1812630354151,Compras,,Egreso,108.1812630354151
+2025-08-29,0,,venta,Importación automática,1069.5685738492678,Ventas,,Ingreso,1069.5685738492678
+2025-08-26,0,,Proveedor_Suministros,Importación automática,-1484.6194881326035,Compras,,Egreso,1484.6194881326035
+2025-08-26,0,,venta,Importación automática,584.3725708830124,Ventas,,Ingreso,584.3725708830124
+2025-08-29,0,,Proveedor_Suministros,Importación automática,-370.8125521312572,Compras,,Egreso,370.8125521312572
+2025-08-27,0,,venta,Importación automática,747.0632764496174,Ventas,,Ingreso,747.0632764496174
+2025-08-28,0,,Proveedor_Suministros,Importación automática,-256.4871134929688,Compras,,Egreso,256.4871134929688
+2025-08-30,0,,venta,Importación automática,567.3563972236075,Ventas,,Ingreso,567.3563972236075
+2025-08-25,0,,Proveedor_Suministros,Importación automática,-466.2460286475006,Compras,,Egreso,466.2460286475006
+2025-08-25,0,,venta,Importación automática,801.0494059399437,Ventas,,Ingreso,801.0494059399437
+2025-08-22,0,,Proveedor_Suministros,Importación automática,-246.03730854512705,Compras,,Egreso,246.03730854512705
+2025-08-23,0,,venta,Importación automática,528.530421601355,Ventas,,Ingreso,528.530421601355
+2025-08-25,0,,Proveedor_Suministros,Importación automática,-189.26336791469,Compras,,Egreso,189.26336791469
+2025-08-27,0,,venta,Importación automática,713.0141668639063,Ventas,,Ingreso,713.0141668639063
+2025-08-26,0,,Proveedor_Suministros,Importación automática,-192.35107728870233,Compras,,Egreso,192.35107728870233
+2025-08-24,0,,venta,Importación automática,671.3792470555239,Ventas,,Ingreso,671.3792470555239
+2025-08-19,0,,Proveedor_Suministros,Importación automática,-1551.698910506518,Compras,,Egreso,1551.698910506518
+2025-08-21,0,,venta,Importación automática,350.03601701447064,Ventas,,Ingreso,350.03601701447064
+2025-08-24,0,,Proveedor_Suministros,Importación automática,-453.07810094222754,Compras,,Egreso,453.07810094222754
+2025-08-23,0,,venta,Importación automática,499.05830505071026,Ventas,,Ingreso,499.05830505071026
+2025-08-19,0,,Proveedor_Suministros,Importación automática,-499.03311212200055,Compras,,Egreso,499.03311212200055
+2025-08-23,0,,venta,Importación automática,515.1370103889374,Ventas,,Ingreso,515.1370103889374
+2025-08-20,0,,Proveedor_Suministros,Importación automática,-389.88829642304694,Compras,,Egreso,389.88829642304694
+2025-08-18,0,,venta,Importación automática,782.7880420961072,Ventas,,Ingreso,782.7880420961072
+2025-08-19,0,,Proveedor_Suministros,Importación automática,-280.49906026732805,Compras,,Egreso,280.49906026732805
+2025-08-16,0,,venta,Importación automática,581.1305959699365,Ventas,,Ingreso,581.1305959699365
+2025-08-18,0,,Proveedor_Suministros,Importación automática,-630.2117800277242,Compras,,Egreso,630.2117800277242
+2025-08-19,0,,venta,Importación automática,1303.8180120081697,Ventas,,Ingreso,1303.8180120081697
+2025-08-17,0,,Proveedor_Suministros,Importación automática,-827.046658072075,Compras,,Egreso,827.046658072075
+2025-08-13,0,,venta,Importación automática,842.7572619357888,Ventas,,Ingreso,842.7572619357888
+2025-08-17,0,,Proveedor_Suministros,Importación automática,-52.54961383125971,Compras,,Egreso,52.54961383125971
+2025-08-17,0,,Proveedor_Suministros,Importación automática,-99.2004742410869,Compras,,Egreso,99.2004742410869
+2025-08-15,0,,Proveedor_Suministros,Importación automática,-113.68676912002269,Compras,,Egreso,113.68676912002269
+2025-08-12,0,,venta,Importación automática,557.3992035599055,Ventas,,Ingreso,557.3992035599055
+2025-08-12,0,,Proveedor_Suministros,Importación automática,-266.25517598516655,Compras,,Egreso,266.25517598516655
+2025-08-14,0,,venta,Importación automática,374.9499752906186,Ventas,,Ingreso,374.9499752906186
+2025-08-15,0,,Proveedor_Suministros,Importación automática,-149.52182503753937,Compras,,Egreso,149.52182503753937
+2025-08-13,0,,Proveedor_Suministros,Importación automática,-575.1350197963029,Compras,,Egreso,575.1350197963029
+2025-08-10,0,,venta,Importación automática,457.9732650144444,Ventas,,Ingreso,457.9732650144444
+2025-08-09,0,,Proveedor_Suministros,Importación automática,-114.68824188582434,Compras,,Egreso,114.68824188582434
+2025-08-08,0,,venta,Importación automática,634.1372356501636,Ventas,,Ingreso,634.1372356501636
+2025-08-08,0,,Proveedor_Suministros,Importación automática,-221.6975309156097,Compras,,Egreso,221.6975309156097
+2025-08-08,0,,Proveedor_Suministros,Importación automática,-108.33668957388043,Compras,,Egreso,108.33668957388043
+2025-08-11,0,,venta,Importación automática,719.6978533346189,Ventas,,Ingreso,719.6978533346189
+2025-08-06,0,,Proveedor_Suministros,Importación automática,-516.3184323843675,Compras,,Egreso,516.3184323843675
+2025-08-11,0,,Proveedor_Suministros,Importación automática,-324.6943446855799,Compras,,Egreso,324.6943446855799
+2025-08-12,0,,venta,Importación automática,629.0472209839319,Ventas,,Ingreso,629.0472209839319
+2025-08-05,0,,Proveedor_Suministros,Importación automática,-226.8333309747663,Compras,,Egreso,226.8333309747663
+2025-08-11,0,,venta,Importación automática,770.1563505149503,Ventas,,Ingreso,770.1563505149503
+2025-08-08,0,,Proveedor_Suministros,Importación automática,-1009.1589554358785,Compras,,Egreso,1009.1589554358785
+2025-08-05,0,,venta,Importación automática,657.2131228578028,Ventas,,Ingreso,657.2131228578028
+2025-08-07,0,,Proveedor_Suministros,Importación automática,-243.48136768978446,Compras,,Egreso,243.48136768978446
+2025-08-08,0,,Proveedor_Suministros,Importación automática,-218.6734816816848,Compras,,Egreso,218.6734816816848
+2025-08-04,0,,Proveedor_Suministros,Importación automática,-105.2733696591426,Compras,,Egreso,105.2733696591426
+2025-08-04,0,,venta,Importación automática,711.691294930244,Ventas,,Ingreso,711.691294930244
+2025-08-07,0,,Proveedor_Suministros,Importación automática,-56.507175333782165,Compras,,Egreso,56.507175333782165
+2025-08-08,0,,Proveedor_Suministros,Importación automática,-172.42072728080183,Compras,,Egreso,172.42072728080183
+2025-08-04,0,,venta,Importación automática,706.8528647646212,Ventas,,Ingreso,706.8528647646212
+2025-08-05,0,,Proveedor_Suministros,Importación automática,-255.4538583359628,Compras,,Egreso,255.4538583359628
+2025-08-06,0,,Proveedor_Suministros,Importación automática,-348.6263647035753,Compras,,Egreso,348.6263647035753
+2025-08-05,0,,venta,Importación automática,476.8231777198975,Ventas,,Ingreso,476.8231777198975
+2025-08-07,0,,venta,Importación automática,474.3374011865395,Ventas,,Ingreso,474.3374011865395
+2025-07-31,0,,Proveedor_Suministros,Importación automática,-1485.245743055765,Compras,,Egreso,1485.245743055765
+2025-07-31,0,,venta,Importación automática,764.7355846607599,Ventas,,Ingreso,764.7355846607599
+2025-08-04,0,,Proveedor_Suministros,Importación automática,-308.7527453273481,Compras,,Egreso,308.7527453273481
+2025-08-01,0,,Proveedor_Suministros,Importación automática,-223.5685576464542,Compras,,Egreso,223.5685576464542
+2025-08-01,0,,venta,Importación automática,1173.5003928679146,Ventas,,Ingreso,1173.5003928679146
+2025-07-31,0,,Proveedor_Suministros,Importación automática,-627.3871507279656,Compras,,Egreso,627.3871507279656
+2025-08-02,0,,venta,Importación automática,665.4323071026636,Ventas,,Ingreso,665.4323071026636
+2025-07-30,0,,Proveedor_Suministros,Importación automática,-298.7102775470961,Compras,,Egreso,298.7102775470961
+2025-07-29,0,,venta,Importación automática,266.20065803825753,Ventas,,Ingreso,266.20065803825753
+2025-08-01,0,,Proveedor_Suministros,Importación automática,-460.67348534746225,Compras,,Egreso,460.67348534746225
+2025-07-29,0,,venta,Importación automática,907.405840744017,Ventas,,Ingreso,907.405840744017
+2025-07-28,0,,Proveedor_Suministros,Importación automática,-1108.1765226327718,Compras,,Egreso,1108.1765226327718
+2025-07-28,0,,venta,Importación automática,1399.1033045850295,Ventas,,Ingreso,1399.1033045850295
+2025-07-31,0,,Proveedor_Suministros,Importación automática,-80.23365199946439,Compras,,Egreso,80.23365199946439
+2025-07-26,0,,venta,Importación automática,684.9220014254469,Ventas,,Ingreso,684.9220014254469
+2025-07-25,0,,Proveedor_Suministros,Importación automática,-227.31779959952834,Compras,,Egreso,227.31779959952834
+2025-07-28,0,,venta,Importación automática,828.8234947467073,Ventas,,Ingreso,828.8234947467073
+2025-07-27,0,,Proveedor_Suministros,Importación automática,-98.55692530002885,Compras,,Egreso,98.55692530002885
+2025-07-27,0,,venta,Importación automática,824.0801732214084,Ventas,,Ingreso,824.0801732214084
+2025-07-28,0,,Proveedor_Suministros,Importación automática,-379.48056069142496,Compras,,Egreso,379.48056069142496
+2025-07-28,0,,venta,Importación automática,537.3868734217072,Ventas,,Ingreso,537.3868734217072
+2025-07-27,0,,Proveedor_Suministros,Importación automática,-1935.0294868345688,Compras,,Egreso,1935.0294868345688
+2025-07-27,0,,venta,Importación automática,905.111724667791,Ventas,,Ingreso,905.111724667791
+2025-07-24,0,,Proveedor_Suministros,Importación automática,-27.930345802009725,Compras,,Egreso,27.930345802009725
+2025-07-25,0,,Proveedor_Suministros,Importación automática,-189.489738609941,Compras,,Egreso,189.489738609941
+2025-07-25,0,,Proveedor_Suministros,Importación automática,-252.17013210943466,Compras,,Egreso,252.17013210943466
+2025-07-24,0,,venta,Importación automática,44.813286257787134,Ventas,,Ingreso,44.813286257787134
+2025-07-24,0,,Proveedor_Suministros,Importación automática,-101.97502505964619,Compras,,Egreso,101.97502505964619
+2025-07-19,0,,venta,Importación automática,591.3588853854388,Ventas,,Ingreso,591.3588853854388
+2025-07-23,0,,Proveedor_Suministros,Importación automática,-109.18064343806111,Compras,,Egreso,109.18064343806111
+2025-07-18,0,,venta,Importación automática,690.4862136234959,Ventas,,Ingreso,690.4862136234959
+2025-07-19,0,,Proveedor_Suministros,Importación automática,-70.0914911834105,Compras,,Egreso,70.0914911834105
+2025-07-21,0,,venta,Importación automática,816.5537674401869,Ventas,,Ingreso,816.5537674401869
+2025-07-18,0,,Proveedor_Suministros,Importación automática,-307.7369770854891,Compras,,Egreso,307.7369770854891
+2025-07-16,0,,venta,Importación automática,778.376905412849,Ventas,,Ingreso,778.376905412849
+2025-07-19,0,,Proveedor_Suministros,Importación automática,-995.8315738932401,Compras,,Egreso,995.8315738932401
+2025-07-19,0,,venta,Importación automática,474.4546608284989,Ventas,,Ingreso,474.4546608284989
+2025-07-21,0,,venta,Importación automática,208.14211098628004,Ventas,,Ingreso,208.14211098628004
+2025-07-14,0,,Proveedor_Suministros,Importación automática,-115.46637774213292,Compras,,Egreso,115.46637774213292
+2025-07-15,0,,venta,Importación automática,568.5384517432808,Ventas,,Ingreso,568.5384517432808
+2025-07-15,0,,Proveedor_Suministros,Importación automática,-239.6681553254924,Compras,,Egreso,239.6681553254924
+2025-07-18,0,,venta,Importación automática,455.1981218065568,Ventas,,Ingreso,455.1981218065568
+2025-07-17,0,,Proveedor_Suministros,Importación automática,-115.1321357176637,Compras,,Egreso,115.1321357176637
+2025-07-18,0,,Proveedor_Suministros,Importación automática,-102.10637857739762,Compras,,Egreso,102.10637857739762
+2025-07-13,0,,venta,Importación automática,330.6355061530044,Ventas,,Ingreso,330.6355061530044
+2025-07-12,0,,Proveedor_Suministros,Importación automática,-403.407380380317,Compras,,Egreso,403.407380380317
+2025-07-12,0,,venta,Importación automática,429.4268721374101,Ventas,,Ingreso,429.4268721374101
+2025-07-16,0,,Proveedor_Suministros,Importación automática,-290.0527859207575,Compras,,Egreso,290.0527859207575
+2025-07-11,0,,venta,Importación automática,958.8993993576845,Ventas,,Ingreso,958.8993993576845
+2025-07-11,0,,Proveedor_Suministros,Importación automática,-190.51359839700032,Compras,,Egreso,190.51359839700032
+2025-07-15,0,,venta,Importación automática,1063.5128455318256,Ventas,,Ingreso,1063.5128455318256
+2025-07-09,0,,Proveedor_Suministros,Importación automática,-325.2906742683266,Compras,,Egreso,325.2906742683266
+2025-07-14,0,,venta,Importación automática,538.367017237902,Ventas,,Ingreso,538.367017237902
+2025-07-11,0,,Proveedor_Suministros,Importación automática,-369.97784606717295,Compras,,Egreso,369.97784606717295
+2025-07-09,0,,Proveedor_Suministros,Importación automática,-824.6229435858509,Compras,,Egreso,824.6229435858509
+2025-07-12,0,,venta,Importación automática,292.50196342550447,Ventas,,Ingreso,292.50196342550447
+2025-07-10,0,,Proveedor_Suministros,Importación automática,-480.84152127817526,Compras,,Egreso,480.84152127817526
+2025-07-11,0,,venta,Importación automática,217.03461146478313,Ventas,,Ingreso,217.03461146478313
+2025-07-05,0,,Proveedor_Suministros,Importación automática,-99.16057917827709,Compras,,Egreso,99.16057917827709
+2025-07-07,0,,venta,Importación automática,323.84896747160775,Ventas,,Ingreso,323.84896747160775
+2025-07-09,0,,Proveedor_Suministros,Importación automática,-1726.0190209791226,Compras,,Egreso,1726.0190209791226
+2025-07-09,0,,Proveedor_Suministros,Importación automática,-115.0059778441924,Compras,,Egreso,115.0059778441924
+2025-07-09,0,,Proveedor_Suministros,Importación automática,-1293.8240994761297,Compras,,Egreso,1293.8240994761297
+2025-07-10,0,,venta,Importación automática,523.5704990836184,Ventas,,Ingreso,523.5704990836184
+2025-07-05,0,,Proveedor_Suministros,Importación automática,-112.7575007011066,Compras,,Egreso,112.7575007011066
+2025-07-04,0,,venta,Importación automática,866.0258382522875,Ventas,,Ingreso,866.0258382522875
+2025-07-03,0,,Proveedor_Suministros,Importación automática,-312.30864851839,Compras,,Egreso,312.30864851839
+2025-07-08,0,,venta,Importación automática,563.3507612467668,Ventas,,Ingreso,563.3507612467668
+2025-07-02,0,,Proveedor_Suministros,Importación automática,-482.50219721175336,Compras,,Egreso,482.50219721175336
+2025-07-06,0,,venta,Importación automática,661.9306078040162,Ventas,,Ingreso,661.9306078040162
+2025-07-01,0,,Proveedor_Suministros,Importación automática,-235.70573373161307,Compras,,Egreso,235.70573373161307
+2025-07-02,0,,venta,Importación automática,627.4006062324917,Ventas,,Ingreso,627.4006062324917
+2025-07-01,0,,venta,Importación automática,428.9853531290108,Ventas,,Ingreso,428.9853531290108
+2025-07-05,0,,Proveedor_Suministros,Importación automática,-302.77439482481014,Compras,,Egreso,302.77439482481014
+2025-07-04,0,,Proveedor_Suministros,Importación automática,-1083.6289090473583,Compras,,Egreso,1083.6289090473583
+2025-06-30,0,,venta,Importación automática,190.59661287021842,Ventas,,Ingreso,190.59661287021842
+2025-07-04,0,,Proveedor_Suministros,Importación automática,-204.53493352621948,Compras,,Egreso,204.53493352621948
+2025-07-02,0,,Proveedor_Suministros,Importación automática,-981.1741793369775,Compras,,Egreso,981.1741793369775
+2025-06-28,0,,venta,Importación automática,502.14581793235476,Ventas,,Ingreso,502.14581793235476
+2025-06-27,0,,Proveedor_Suministros,Importación automática,-413.5269713475211,Compras,,Egreso,413.5269713475211
+2025-06-27,0,,Proveedor_Suministros,Importación automática,-57.142297998623285,Compras,,Egreso,57.142297998623285
+2025-07-03,0,,venta,Importación automática,754.6066468349708,Ventas,,Ingreso,754.6066468349708
+2025-07-01,0,,Proveedor_Suministros,Importación automática,-353.57832792929054,Compras,,Egreso,353.57832792929054
+2025-06-26,0,,venta,Importación automática,575.2907356678405,Ventas,,Ingreso,575.2907356678405
+2025-07-01,0,,Proveedor_Suministros,Importación automática,-420.9769383218848,Compras,,Egreso,420.9769383218848
+2025-06-25,0,,Proveedor_Suministros,Importación automática,-43.85096734415701,Compras,,Egreso,43.85096734415701
+2025-07-01,0,,venta,Importación automática,821.986242646129,Ventas,,Ingreso,821.986242646129
+2025-06-25,0,,Proveedor_Suministros,Importación automática,-353.7621618264489,Compras,,Egreso,353.7621618264489
+2025-06-24,0,,venta,Importación automática,969.8635691402826,Ventas,,Ingreso,969.8635691402826
+2025-06-28,0,,venta,Importación automática,519.4990270484881,Ventas,,Ingreso,519.4990270484881
+2025-06-24,0,,Proveedor_Suministros,Importación automática,-340.78813821913656,Compras,,Egreso,340.78813821913656
+2025-06-24,0,,venta,Importación automática,300.80790878114993,Ventas,,Ingreso,300.80790878114993
+2025-06-21,0,,Proveedor_Suministros,Importación automática,-58.233946886437245,Compras,,Egreso,58.233946886437245
+2025-06-26,0,,venta,Importación automática,416.0093708480735,Ventas,,Ingreso,416.0093708480735
+2025-06-20,0,,Proveedor_Suministros,Importación automática,-1117.9305909786253,Compras,,Egreso,1117.9305909786253
+2025-06-24,0,,venta,Importación automática,240.8115471832728,Ventas,,Ingreso,240.8115471832728
+2025-06-20,0,,Proveedor_Suministros,Importación automática,-145.91180225334534,Compras,,Egreso,145.91180225334534
+2025-06-24,0,,Proveedor_Suministros,Importación automática,-183.57916437982666,Compras,,Egreso,183.57916437982666
+2025-06-24,0,,venta,Importación automática,751.1105385830285,Ventas,,Ingreso,751.1105385830285
+2025-06-24,0,,Proveedor_Suministros,Importación automática,-229.81988910982994,Compras,,Egreso,229.81988910982994
+2025-06-23,0,,venta,Importación automática,1025.8449351242912,Ventas,,Ingreso,1025.8449351242912
+2025-06-23,0,,Proveedor_Suministros,Importación automática,-1559.0586306039283,Compras,,Egreso,1559.0586306039283
+2025-06-17,0,,venta,Importación automática,750.7540288345685,Ventas,,Ingreso,750.7540288345685
+2025-06-20,0,,Proveedor_Suministros,Importación automática,-386.8632475489299,Compras,,Egreso,386.8632475489299
+2025-06-21,0,,venta,Importación automática,315.309496462569,Ventas,,Ingreso,315.309496462569
+2025-06-15,0,,Proveedor_Suministros,Importación automática,-374.8435682524414,Compras,,Egreso,374.8435682524414
+2025-06-15,0,,Proveedor_Suministros,Importación automática,-56.99698084780051,Compras,,Egreso,56.99698084780051
+2025-06-19,0,,venta,Importación automática,359.0374251381975,Ventas,,Ingreso,359.0374251381975
+2025-06-20,0,,Proveedor_Suministros,Importación automática,-105.74178889226955,Compras,,Egreso,105.74178889226955
+2025-06-20,0,,venta,Importación automática,624.944170768056,Ventas,,Ingreso,624.944170768056
+2025-06-13,0,,venta,Importación automática,772.9539319494777,Ventas,,Ingreso,772.9539319494777
+2025-06-16,0,,Proveedor_Suministros,Importación automática,-100.8341246249574,Compras,,Egreso,100.8341246249574
+2025-06-17,0,,Proveedor_Suministros,Importación automática,-1040.371304309898,Compras,,Egreso,1040.371304309898
+2025-06-12,0,,Proveedor_Suministros,Importación automática,-56.665007474525886,Compras,,Egreso,56.665007474525886
+2025-06-12,0,,venta,Importación automática,713.4692272964123,Ventas,,Ingreso,713.4692272964123
+2025-06-16,0,,Proveedor_Suministros,Importación automática,-414.94410752900467,Compras,,Egreso,414.94410752900467
+2025-06-12,0,,venta,Importación automática,730.8002763024704,Ventas,,Ingreso,730.8002763024704
+2025-06-11,0,,Proveedor_Suministros,Importación automática,-110.72609198330801,Compras,,Egreso,110.72609198330801
+2025-06-12,0,,Proveedor_Suministros,Importación automática,-29.199656601818944,Compras,,Egreso,29.199656601818944
+2025-06-15,0,,Proveedor_Suministros,Importación automática,-181.59585246060539,Compras,,Egreso,181.59585246060539
+2025-06-15,0,,venta,Importación automática,521.6867258915534,Ventas,,Ingreso,521.6867258915534
+2025-06-15,0,,Proveedor_Suministros,Importación automática,-135.99538997323899,Compras,,Egreso,135.99538997323899
+2025-06-15,0,,venta,Importación automática,454.9721530735743,Ventas,,Ingreso,454.9721530735743
+2025-06-13,0,,Proveedor_Suministros,Importación automática,-755.3213154744003,Compras,,Egreso,755.3213154744003
+2025-06-12,0,,venta,Importación automática,166.50967757216927,Ventas,,Ingreso,166.50967757216927
+2025-06-12,0,,Proveedor_Suministros,Importación automática,-82.7139118466121,Compras,,Egreso,82.7139118466121
+2025-06-09,0,,venta,Importación automática,287.4383092798006,Ventas,,Ingreso,287.4383092798006
+2025-06-10,0,,Proveedor_Suministros,Importación automática,-1764.2991769344067,Compras,,Egreso,1764.2991769344067
+2025-06-06,0,,venta,Importación automática,443.11677867055107,Ventas,,Ingreso,443.11677867055107
+2025-06-06,0,,Proveedor_Suministros,Importación automática,-94.55041754839135,Compras,,Egreso,94.55041754839135
+2025-06-05,0,,venta,Importación automática,954.9199233237135,Ventas,,Ingreso,954.9199233237135
+2025-06-04,0,,Proveedor_Suministros,Importación automática,-291.4541786468596,Compras,,Egreso,291.4541786468596
+2025-06-05,0,,venta,Importación automática,803.7685826927028,Ventas,,Ingreso,803.7685826927028
+2025-06-04,0,,venta,Importación automática,582.1544531287603,Ventas,,Ingreso,582.1544531287603
+2025-06-04,0,,Proveedor_Suministros,Importación automática,-282.0230060357569,Compras,,Egreso,282.0230060357569
+2025-06-04,0,,Proveedor_Suministros,Importación automática,-383.00186751166507,Compras,,Egreso,383.00186751166507
+2025-06-06,0,,venta,Importación automática,878.442266829949,Ventas,,Ingreso,878.442266829949
+2025-06-05,0,,Proveedor_Suministros,Importación automática,-343.1406437453752,Compras,,Egreso,343.1406437453752
+2025-06-05,0,,venta,Importación automática,293.95132413446896,Ventas,,Ingreso,293.95132413446896
+2025-05-31,0,,Proveedor_Suministros,Importación automática,-58.30786695638315,Compras,,Egreso,58.30786695638315
+2025-06-05,0,,venta,Importación automática,535.3992594280671,Ventas,,Ingreso,535.3992594280671
+2025-05-31,0,,Proveedor_Suministros,Importación automática,-814.5343495232563,Compras,,Egreso,814.5343495232563
+2025-06-01,0,,Proveedor_Suministros,Importación automática,-87.36325116359951,Compras,,Egreso,87.36325116359951
+2025-06-03,0,,venta,Importación automática,509.08341454820913,Ventas,,Ingreso,509.08341454820913
+2025-06-02,0,,Proveedor_Suministros,Importación automática,-389.1632599231829,Compras,,Egreso,389.1632599231829
+2025-06-02,0,,Proveedor_Suministros,Importación automática,-51.8669273885424,Compras,,Egreso,51.8669273885424
+2025-05-29,0,,venta,Importación automática,650.4027456658547,Ventas,,Ingreso,650.4027456658547
+2025-05-28,0,,venta,Importación automática,1164.2738826554842,Ventas,,Ingreso,1164.2738826554842
+2025-05-31,0,,Proveedor_Suministros,Importación automática,-316.2611672814313,Compras,,Egreso,316.2611672814313
+2025-05-31,0,,Proveedor_Suministros,Importación automática,-388.4613858777344,Compras,,Egreso,388.4613858777344
+2025-06-01,0,,venta,Importación automática,303.61124658161265,Ventas,,Ingreso,303.61124658161265
+2025-05-31,0,,Proveedor_Suministros,Importación automática,-358.3423012004521,Compras,,Egreso,358.3423012004521
+2025-05-26,0,,venta,Importación automática,421.23002659202683,Ventas,,Ingreso,421.23002659202683
+2025-05-25,0,,Proveedor_Suministros,Importación automática,-811.1716711237128,Compras,,Egreso,811.1716711237128
+2025-05-25,0,,venta,Importación automática,512.0567238230526,Ventas,,Ingreso,512.0567238230526
+2025-05-26,0,,Proveedor_Suministros,Importación automática,-130.75887273958048,Compras,,Egreso,130.75887273958048
+2025-05-30,0,,venta,Importación automática,421.69938907326326,Ventas,,Ingreso,421.69938907326326
+2025-05-23,0,,Proveedor_Suministros,Importación automática,-505.96931589992425,Compras,,Egreso,505.96931589992425
+2025-05-23,0,,venta,Importación automática,650.608247319111,Ventas,,Ingreso,650.608247319111
+2025-05-27,0,,Proveedor_Suministros,Importación automática,-406.2270570925847,Compras,,Egreso,406.2270570925847
+2025-05-26,0,,venta,Importación automática,1068.9019060562932,Ventas,,Ingreso,1068.9019060562932
