@@ -1,8 +1,8 @@
-# AuditSentinel - Auditoría Financiera Inteligente 🔍
+# FiscalEye-AI - Auditoría Financiera Inteligente 🔍
 
-## 📋 ¿Qué es AuditSentinel?
+## 📋 ¿Qué es FiscalEye-AI?
 
-**AuditSentinel** es una herramienta de **auditoría financiera automatizada** basada en **Inteligencia Artificial** que detecta anomalías en las transacciones de **cualquier tipo de negocio**: restaurantes, tiendas, consultorios, colegios, agencias, servicios, manufactureras, y más.
+**FiscalEye-AI** es una herramienta de **auditoría financiera automatizada** basada en **Inteligencia Artificial** que detecta anomalías en las transacciones de **cualquier tipo de negocio**: restaurantes, tiendas, consultorios, colegios, agencias, servicios, manufactureras, y más.
 
 ### Características principales:
 
